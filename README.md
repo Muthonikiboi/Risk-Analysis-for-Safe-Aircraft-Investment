@@ -96,11 +96,12 @@ This data has so many missing values first handle missing values either:
 More to that we can also process data by grouping eg Make and Model , Engine type and Number of engines with their relations to number of accidents to had more data.
 
 ## 📊📈 Insights Deep Dive
-1. Top 10 Accidents from grouping `Make` and `Model`
-2. Accidents by Number of Engines
-3. Fatal injuries per flight purpose
-4. Total Accidents over Years
+1. Top 10 Accidents from grouping `Make` and `Model` ![Image](https://github.com/user-attachments/assets/5bf57f26-f343-4b6b-8ef9-c0ad447b6777)
+2. Accidents by Number of Engines ![Image](https://github.com/user-attachments/assets/7ef820b7-ad61-4b3a-bd4f-2f67a793cab7)
+3. Fatal injuries per flight purpose ![Image](https://github.com/user-attachments/assets/522594d7-025b-44d5-867a-475418b8bcb5)
+4. Total Accidents over Years ![Image](https://github.com/user-attachments/assets/35022d87-6086-46b5-ba52-d8f288c1c7f8)
 5. Tableau Dashboard 1
 6. Tableau DAshboard 2
+
 
 ## 📃 Recommendation
