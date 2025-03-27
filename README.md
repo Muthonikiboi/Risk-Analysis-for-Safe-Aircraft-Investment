@@ -2,9 +2,6 @@
 This project analyzes ✈️ Accident data to identify the lowest risk aircraft for a company getting started into the aviation industry.Using data driven insights it helps provide recommendations to help aviation decision make informed purchasing decision. 
 
 ## Background and Overview
-### 👩🏻‍💻 Author
-
-
 ### 🤔 Problem Statement
 The company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
 
@@ -97,11 +94,23 @@ More to that we can also process data by grouping eg Make and Model , Engine typ
 
 ## 📊📈 Insights Deep Dive
 1. Top 10 Accidents from grouping `Make` and `Model` ![Image](https://github.com/user-attachments/assets/5bf57f26-f343-4b6b-8ef9-c0ad447b6777)
-2. Accidents by Number of Engines ![Image](https://github.com/user-attachments/assets/7ef820b7-ad61-4b3a-bd4f-2f67a793cab7)
-3. Fatal injuries per flight purpose ![Image](https://github.com/user-attachments/assets/522594d7-025b-44d5-867a-475418b8bcb5)
+2. Accidents by Number of Engines ![Image](https://github.com/user-attachments/assets/7ef820b7-ad61-4b3a-bd4f-2f67a793cab7) This image is a clear indication that most accident occur to planes with one engine.The more the number of engines the less the likelihood of accident occurrences.
+3. Fatal injuries per flight purpose ![Image](https://github.com/user-attachments/assets/522594d7-025b-44d5-867a-475418b8bcb5) This image indicates that Personal, business and instructural record the highest numbet of fatalities when accidents occur.
 4. Total Accidents over Years ![Image](https://github.com/user-attachments/assets/35022d87-6086-46b5-ba52-d8f288c1c7f8)
-5. Tableau Dashboard 1
-6. Tableau DAshboard 2
+5. Tableau Dashboard 1 [Dashboard Server Link](https://public.tableau.com/app/profile/joy.kiboi/viz/AeroAccidentsBook1/Dashboard1?publish=yes)  ![Image](https://github.com/user-attachments/assets/0e139bd7-833c-4f92-b6ed-a7fcd1099510)
+   The dashboards are a summary of the plots.
+7. Tableau DAshboard 2  [Dashboard Server Link](https://public.tableau.com/app/profile/joy.kiboi/viz/AeroAccidentsBook2/Dashboard2?publish=yes) ![Image](https://github.com/user-attachments/assets/069fe61b-bc61-429c-988a-37f3b5564cda)
 
 
 ## 📃 Recommendation
+1. Prioritize buying multi-engine aircrafts as they have lower accident Risks
+2. Focus on commercial(Public) and Cargo(Ferry) aviation where there are lower risks.
+3. Implement strict  Operational controls for private services.
+4. Invest in planes with advanced landing features as during landing most planes have highest risks
+
+## 🏁 Conclusion
+Diving into the aviation indurstry with a data driven solution suggests that ,invest in multi engine commercial(Public) and Cargo(Ferry) crafts as they pose lower risks compared to personal and intructional aircrafts.
+
+### 👩🏻‍💻 Author
+[Github](https://github.com/Muthonikiboi)
+[LinkedIn](https://www.linkedin.com/in/joy-kiboi-917661278/)
