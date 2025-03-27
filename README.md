@@ -22,6 +22,7 @@ The Data in this project is obtained from the National Transportation Safety Boa
 
 On kaggle: [Dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)
 
+There are two Datasets in the `./Data` folder(Raw data and Cleaned Data)
 The dataset contains records like:
 - Model
 - Number of engines
