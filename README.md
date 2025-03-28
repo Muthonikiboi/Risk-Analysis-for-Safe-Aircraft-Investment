@@ -95,7 +95,9 @@ More to that we can also process data by grouping eg Make and Model , Engine typ
 ## 📊📈 Insights Deep Dive
 1. Top 10 Accidents from grouping `Make` and `Model` ![Image](https://github.com/user-attachments/assets/5bf57f26-f343-4b6b-8ef9-c0ad447b6777)
 2. Accidents by Number of Engines ![Image](https://github.com/user-attachments/assets/7ef820b7-ad61-4b3a-bd4f-2f67a793cab7) This image is a clear indication that most accident occur to planes with one engine.The more the number of engines the less the likelihood of accident occurrences.
-3. Fatal injuries per flight purpose ![Image](https://github.com/user-attachments/assets/522594d7-025b-44d5-867a-475418b8bcb5) This image indicates that Personal, business and instructural record the highest numbet of fatalities when accidents occur.
+3. Fatal injuries per flight purpose ![Image](https://github.com/user-attachments/assets/522594d7-025b-44d5-867a-475418b8bcb5) This image indicates that Personal and Business flights that we plan to invest in are one of the riskiest investmensts as they record the highest Injury records.
+
+When making a conclusion on planes to settle with should have the best safety records and other improved operational features.
 4. Total Accidents over Years ![Image](https://github.com/user-attachments/assets/35022d87-6086-46b5-ba52-d8f288c1c7f8)
 5. Tableau Dashboard 1 [Dashboard Server Link](https://public.tableau.com/app/profile/joy.kiboi/viz/AeroAccidentsBook1/Dashboard1?publish=yes)  ![Image](https://github.com/user-attachments/assets/0e139bd7-833c-4f92-b6ed-a7fcd1099510)
    The dashboards are a summary of the plots.
@@ -104,12 +106,26 @@ More to that we can also process data by grouping eg Make and Model , Engine typ
 
 ## 📃 Recommendation
 1. Prioritize buying multi-engine aircrafts as they have lower accident Risks
-2. Focus on commercial(Public) and Cargo(Ferry) aviation where there are lower risks.
-3. Implement strict  Operational controls for private services.
-4. Invest in planes with advanced landing features as during landing most planes have highest risks
+2. Prioritize `DOUGLAS` filghts as it has the most business planes with less risks.
+3. Prioritize ` BOEING ` filghts as it has the most business planes with less risks.
+| #  | Make               | Model      | Purpose of Flight | No of Accidents |
+|----|--------------------|-----------|-------------------|----------------|
+| 13 | BOEING            | 747       | Personal         | 27             |
+| 49 | Boeing            | 747-400   | Personal         | 6              |
+| 37 | Boeing            | 747       | Personal         | 6              |
+| 50 | Boeing            | 747-422   | Personal         | 4              |
+| 44 | Boeing            | 747-200   | Personal         | 3              |
+| 24 | BOEING            | 747-422   | Personal         | 3              |
+| 81 | Mcdonnell Douglas | DC-8-71F  | Personal         | 3              |
+| 66 | Douglas           | DC-6B     | Personal         | 3              |
+| 16 | BOEING            | 747 422   | Personal         | 2              |
+| 46 | Boeing            | 747-228F  | Personal         | 2              |
+
+4. Implement strict  Operational controls for private services.
+5. Invest in planes with advanced landing features as during landing most planes have highest risks
 
 ## 🏁 Conclusion
-Diving into the aviation indurstry with a data driven solution suggests that ,invest in multi engine commercial(Public) and Cargo(Ferry) crafts as they pose lower risks compared to personal and intructional aircrafts.
+Diving into the aviation indurstry with a data driven solution suggests that ,invest in multi engine ,Douglas(business) is best and BOEING(private) tops the list.These crafts pose lower risks compared to other aircrafts.
 
 ### 👩🏻‍💻 Author
 [Github](https://github.com/Muthonikiboi)
